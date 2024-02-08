@@ -6,7 +6,6 @@ The XO Game is a project developed by a team of 5 programmers. It is a classic g
 - Play against the computer: Challenge yourself by playing against the computer at two different difficulty levels: easy and hard.
 - Colorful user interface: The game's UI is designed with vibrant colors to create an engaging gaming experience.
 
-## Prerequisites
 
 
 
